@@ -59,9 +59,9 @@
 
         layer_3 {
             bindings = <
-&trans      &trans             &trans             &trans             &trans             &trans               &kp LS(LA(LC(Y)))  &kp LS(LA(LC(U)))  &kp LS(LC(LA(I)))      &kp LS(LA(LC(O)))  &trans                     &trans
-&trans      &kp LS(LA(LC(A)))  &kp LS(LA(LC(S)))  &kp LS(LA(LC(D)))  &kp LS(LA(LC(F)))  &kp LS(LA(LC(G)))    &kp LS(LC(LA(H)))  &kp LS(LA(LC(J)))  &kp LS(LA(LC(K)))      &kp LS(LA(LC(L)))  &kp LS(LA(LC(SEMICOLON)))  &trans
-&bt BT_CLR  &bt BT_SEL 0       &bt BT_SEL 1       &bt BT_SEL 2       &bt BT_SEL 3       &bt BT_SEL 4         &kp LS(LA(LC(N)))  &kp LS(LA(LC(M)))  &kp LS(LA(LC(COMMA)))  &trans             &trans                     &trans
+&trans      &kp LS(LA(LC(Q)))  &kp LC(LA(LS(W)))  &kp LS(LC(LA(E)))  &kp LS(LA(LC(R)))  &kp LS(LC(LA(T)))    &kp LS(LA(LC(Y)))  &kp LS(LA(LC(U)))  &kp LS(LC(LA(I)))      &kp LS(LA(LC(O)))       &kp LS(LC(LA(P)))          &trans
+&trans      &kp LS(LA(LC(A)))  &kp LS(LA(LC(S)))  &kp LS(LA(LC(D)))  &kp LS(LA(LC(F)))  &kp LS(LA(LC(G)))    &kp LS(LC(LA(H)))  &kp LS(LA(LC(J)))  &kp LS(LA(LC(K)))      &kp LS(LA(LC(L)))       &kp LS(LA(LC(SEMICOLON)))  &trans
+&bt BT_CLR  &bt BT_SEL 0       &bt BT_SEL 1       &bt BT_SEL 2       &bt BT_SEL 3       &bt BT_SEL 4         &kp LS(LA(LC(N)))  &kp LS(LA(LC(M)))  &kp LS(LA(LC(COMMA)))  &kp LS(LA(LC(PERIOD)))  &trans                     &trans
                                                   &trans             &trans             &trans               &trans             &trans             &trans
             >;
         };
